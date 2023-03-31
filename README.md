@@ -47,7 +47,7 @@
   dotnet add package Microsoft.EntityFrameworkCore.Design -v 6.0.0
   dotnet ef database update
   ```
-* add a file in the PetShelterApi directory called `appsettings.json` and add the following code, replacing the password/user field with your credentials:
+* add a file in the AnimalHouseApi directory called `appsettings.json` and add the following code, replacing the password/user field with your credentials:
 ```
 {
   "Logging": {
