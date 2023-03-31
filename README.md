@@ -30,7 +30,7 @@
 * Implement one(or more) of the following: authentication, versioning, pagination, or CORS
 * full API documentation required.
 
-# Further Explporation Objective
+# Further Exploration Objective
 * We are looking for your best effort in implementing a further exploration objective. Why? Some are more challenging than others, like authentication. We want to encourage you to challenge yourself for this project and not feel the pressure of needing to successfully complete an objective to simply pass. With the time you had in class to work on further exploration and the skills you have at the end of this course, we generally expect to see that most students complete this objective.
 
 * Your teacher will review your README and your commit history to understand your progress on implementing a further exploration objective. If you do not complete a further exploration objective, make sure that your project documentation reflects this. We recommend updating the "Known Bugs" section of your README, but you may find a better location to relay this information.
