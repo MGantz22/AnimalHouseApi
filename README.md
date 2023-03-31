@@ -66,6 +66,9 @@
 # Running the program
 * Start the API by opening a command line in the `AnimalHouseApi` directory and enter `dotnet run`
 
+#  Swagger Documentation 
+* To view the Swagger documentation for the AnimalHouseApi, launch the project using `dotnet run` using Terminal or Powershell, then input the following URL into your browser: `https://localhost:5001/swagger/index.html`
+
 
 ### API Documentation
 
