@@ -109,7 +109,7 @@ DELETE http://localhost:5000/api/v1animals/{id}
       DELETE  https://localhost:5001/api/v1Animals/8
       ```
 
-## Known Bugs
+# Known Bugs
 
 - _If you find additional bugs not listed here, please email me at mgantz22@icloud.com with the subject_ **[_Repo Name_] Bug** _and include:_
   - BUG: _A brief description of the bug_
