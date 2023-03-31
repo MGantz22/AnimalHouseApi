@@ -1,5 +1,5 @@
 # Animal House API
-## By Mitchell Gantz
+### By Mitchell Gantz
 
 ### An Api for managing dogs and cats for a fictional shelter  
 
